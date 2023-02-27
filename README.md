@@ -2,7 +2,7 @@
 
 ## Rejection Sampling
 
-This program calculates the integral of sin(pi*X) function from  X = 0 to X = 1
+This program calculates the integral of sin(pi*X) function from  X = 0 to X = 1,git
 
 ### Requirements
 
@@ -18,3 +18,6 @@ command line with the `-h` or `--help` flag, which will print the options
 The python scripts can be run with the following options
 - `python python/CalculatePi.py -Nsample [# samples]`
 - `python python/GaussRandom.py -Nsample [# samples] -range [Xmax] --log --expo`
+
+
+
